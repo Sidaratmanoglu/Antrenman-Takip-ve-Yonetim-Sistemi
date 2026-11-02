@@ -1,2 +1,2 @@
-# Antrenman-Takip-ve-Y-netim-Sistemi
+# Antrenman-Takip-ve-Yonetim-Sistemi
 Sporcular İçin Antrenman Takip ve Yönetim Sistemi
